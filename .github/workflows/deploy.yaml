@@ -1,4 +1,4 @@
-name: CI/CD for React App for test
+name: CI/CD for React App for test appliation
 
 on:
   push:
