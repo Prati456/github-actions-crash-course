@@ -1,4 +1,4 @@
-name: CI/CD for React App for test appliation devvv ecp
+name: CI/CD for React App for test appliation devvv ecp code
 
 on:
   push:
